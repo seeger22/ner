@@ -1,0 +1,5 @@
+! awk -F"\t" '{print $NF}' train_predictions_o.txt | paste train_o.txt - | python3 conlleval_perl.py 
+processed 1745068 tokens with 0 phrases; found: 3018 phrases; correct: 0.
+accuracy:  99.69%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+            hotel: precision:   0.00%; recall:   0.00%; FB1:   0.00  783
+       restaurant: precision:   0.00%; recall:   0.00%; FB1:   0.00  2235

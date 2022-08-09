@@ -1,0 +1,5 @@
+! awk -F"\t" '{print $NF}' test_predictions_ne_resthotel.txt | paste test_ne_resthotel.txt - | python3 conlleval_perl.py 
+processed 57843 tokens with 3342 phrases; found: 3146 phrases; correct: 2657.
+accuracy:  96.90%; precision:  84.46%; recall:  79.50%; FB1:  81.91
+            hotel: precision:  88.57%; recall:  72.41%; FB1:  79.68  1339
+       restaurant: precision:  81.41%; recall:  86.33%; FB1:  83.79  1807

@@ -1,0 +1,6 @@
+! awk -F"\t" '{print $NF}' M1test_predictions_ne_other.txt | paste test_ne_other.txt - | python3 conlleval_perl.py 
+processed 17967 tokens with 1208 phrases; found: 10 phrases; correct: 0.
+accuracy:  81.45%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+       attraction: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+            hotel: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+       restaurant: precision:   0.00%; recall:   0.00%; FB1:   0.00  9
