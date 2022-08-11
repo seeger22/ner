@@ -1,0 +1,1046 @@
+[
+    {
+        "sentence": "perfect and what is the check in time for that",
+        "label": 8
+    },
+    {
+        "sentence": "ok that's fine and can you also help me find a japanese restaurant with a moderate price range in the same area",
+        "label": 0
+    },
+    {
+        "sentence": "oh and one more thing uhhh is there bike lockers or a bike rack where i can park my bike",
+        "label": 63
+    },
+    {
+        "sentence": "yeah that sounds great can i go ahead and uhhh book a table for for seven people at one p. m. on uhhh this coming monday",
+        "label": 0
+    },
+    {
+        "sentence": "ok great i've got that down uhhh in the meanwhile i'm looking for a place to go uhhh particularly i'm looking for a landmark area",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh all right bummer no worries ummm you know i'm gonna need a place to stay too can you help me find a say a two star motel in the same area in i dunno the cheap price range",
+        "label": 0
+    },
+    {
+        "sentence": "awesome thank you while i'm there i'm gonna be looking for a place to dine uhhh that serves turkish food in the same area that's expensive is there anything like that",
+        "label": 0
+    },
+    {
+        "sentence": "perfect uhhh can you give the address including the zip code please",
+        "label": 0
+    },
+    {
+        "sentence": "ok thank you and i have another similar request is there ummm places to go in the same area as the hotel",
+        "label": 0
+    },
+    {
+        "sentence": "great and could you give me the zip code and phone number for the hyde street pier",
+        "label": 0
+    },
+    {
+        "sentence": "mmm that sounds good ummm can you check whether they accept amex card because you know most of the places they don't so i just wanna confirm that",
+        "label": 2
+    },
+    {
+        "sentence": "cool by chance do you know if that's a good place uhhh for large groups",
+        "label": 61
+    },
+    {
+        "sentence": "perfect ummm i would love if you could book a table for two people on sunday at twelve thirty p. m.",
+        "label": 0
+    },
+    {
+        "sentence": "thanks do they take master card",
+        "label": 2
+    },
+    {
+        "sentence": "perfect. the uhhh is there a park in that area",
+        "label": 0
+    },
+    {
+        "sentence": "ok that's no problem can you send me the zip code and phone number",
+        "label": 0
+    },
+    {
+        "sentence": "do they deliver",
+        "label": 53
+    },
+    {
+        "sentence": "great thanks i don't think i wanna dine in do you know if they offer takeout",
+        "label": 49
+    },
+    {
+        "sentence": "do they deliver food",
+        "label": 53
+    },
+    {
+        "sentence": "great uh how about pier market seafood restaurant could you tell me what the noise level of that restaurant is",
+        "label": 71
+    },
+    {
+        "sentence": "uhhh possibly uhhh do they offer daily house keeping",
+        "label": 26
+    },
+    {
+        "sentence": "i'm doing well uhhh i'm planning a trip to san francisco and i was hoping you can help me out ummm i was wondering if you can help me find a place to eat in the lower pacif pacific heights i'm looking for an expensive restaurant that serves american food",
+        "label": 0
+    },
+    {
+        "sentence": "thank you",
+        "label": 0
+    },
+    {
+        "sentence": "great and do they have a military discount",
+        "label": 73
+    },
+    {
+        "sentence": "awesome and do you know if they accept apple pay",
+        "label": 2
+    },
+    {
+        "sentence": "flying falafel do you know if they have vegetarian option in the menu too",
+        "label": 50
+    },
+    {
+        "sentence": "thanks oh uhhh you know can i also get the address",
+        "label": 0
+    },
+    {
+        "sentence": "great ummm is there a facility nearby where i can park my bike",
+        "label": 63
+    },
+    {
+        "sentence": "ok would it be possible for you to give me the address and phone number of this hotel",
+        "label": 0
+    },
+    {
+        "sentence": "awesome inn san francisco and uhhh is the wi-fi free there",
+        "label": 18
+    },
+    {
+        "sentence": "cool uhhh what about the noise level of the restaurant there",
+        "label": 71
+    },
+    {
+        "sentence": "i have ummm i'd like to go visit a social club in the same area would you help me find one for me",
+        "label": 0
+    },
+    {
+        "sentence": "nice. ummm do you have a confirmation code you can share with me",
+        "label": 0
+    },
+    {
+        "sentence": "got it what is the zip code for that",
+        "label": 0
+    },
+    {
+        "sentence": "ok no problem do you of a place where i can dine in the same area maybe something in the moderate price range that will serve sandwiches",
+        "label": 0
+    },
+    {
+        "sentence": "ok can i have the specific address please",
+        "label": 0
+    },
+    {
+        "sentence": "got it and what's the ambience of foreign cinema",
+        "label": 58
+    },
+    {
+        "sentence": "let's do the uhhh regular holiday inn uhhh can you give me the zip code",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh what type of accomodation is it",
+        "label": 0
+    },
+    {
+        "sentence": "yeah but then i also need to check if it's wheelchair accessible would you be able to check that with them ummm",
+        "label": 27
+    },
+    {
+        "sentence": "ok so on my own that works ummm is there a place that i can eat somewhere near there as well ummm probably moderate price range that maybe has dance club food",
+        "label": 0
+    },
+    {
+        "sentence": "awesome ok i mean would you be able to also help me ummm find the restaurant in the same area as the attraction ummm that's in the expensive price range",
+        "label": 0
+    },
+    {
+        "sentence": "Does the Gozu have tv?",
+        "label": 0
+    },
+    {
+        "sentence": "could you please check whether they accept credit cards",
+        "label": 2
+    },
+    {
+        "sentence": "uhhh maybe do they uhhh do they take reservations",
+        "label": 19
+    },
+    {
+        "sentence": "yeah uhhh more expensive would be ok as well",
+        "label": 0
+    },
+    {
+        "sentence": "perfect do you know if i can park my bike there",
+        "label": 63
+    },
+    {
+        "sentence": "ok thank you can i get the phone number and the address please",
+        "label": 0
+    },
+    {
+        "sentence": "awesome uhhh one one last question do they accept master card there",
+        "label": 2
+    },
+    {
+        "sentence": "ok ummm i would like to find some four star hotels in the same area and and if expensive price ranges are ok",
+        "label": 0
+    },
+    {
+        "sentence": "yeah that sounds pretty cool can you send me the address for the second one the um s. f. moma museum",
+        "label": 0
+    },
+    {
+        "sentence": "ok how about we find a restaurant that serves mediterranean food",
+        "label": 0
+    },
+    {
+        "sentence": "oh perfect uhhh that sounds great do they have a do you know if they have outdoor seating",
+        "label": 43
+    },
+    {
+        "sentence": "ummm and finally what's the address",
+        "label": 0
+    },
+    {
+        "sentence": "great i was wondering if you could also help me find uhhh temple in the same area so we could do after lunch on sunday",
+        "label": 0
+    },
+    {
+        "sentence": "Do you know if they offer baggage storage for guests?",
+        "label": 28
+    },
+    {
+        "sentence": "that's fine and do they accept apple pay",
+        "label": 2
+    },
+    {
+        "sentence": "um what's the phone number there",
+        "label": 0
+    },
+    {
+        "sentence": "ok thanks ummm so uhhh in addition i'd like to go to a restaurant with recommendation that has seafood in the same area in the price range in the cheap range",
+        "label": 0
+    },
+    {
+        "sentence": "hmmm well ummm does super pan have a place to park my bike",
+        "label": 63
+    },
+    {
+        "sentence": "it sounds good uhhh could you also check for me if they accept google pay",
+        "label": 66
+    },
+    {
+        "sentence": "got it perfect ummm i would like to make a booking i think if ummm there's availability could i book two rooms starting this thursday for four nights",
+        "label": 0
+    },
+    {
+        "sentence": "mmm ok ummm how about uhhh a place for chinese food in that same area",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh perfect uhhh is there any landmark in the same area that i could also check out",
+        "label": 0
+    },
+    {
+        "sentence": "thank you and can i also uhhh get a place to eat in the same area in the cheap price range and that has a tea room",
+        "label": 0
+    },
+    {
+        "sentence": "cool is there a phone number i can call just in case",
+        "label": 0
+    },
+    {
+        "sentence": "ok that sounds good uhhh can you give me the zip code and phone number for that please",
+        "label": 0
+    },
+    {
+        "sentence": "maybe just church",
+        "label": 0
+    },
+    {
+        "sentence": "ok i'd like to book two rooms for tomorrow for one night",
+        "label": 0
+    },
+    {
+        "sentence": "ok great thanks uhhh do you know what their wi-fi there costs",
+        "label": 18
+    },
+    {
+        "sentence": "oh thank you so much so uhhh also if i can i was also uhhh looking for a place to stay in the same area and i was looking for something like an inn like regular two star inn and the place should be uhhh cheap may it should not be very expensive to live",
+        "label": 0
+    },
+    {
+        "sentence": "oh nice ummm do you know if they have free wi-fi",
+        "label": 18
+    },
+    {
+        "sentence": "would you happen to know if it's a good place for kids",
+        "label": 1
+    },
+    {
+        "sentence": "do you happen to know if they take reservations uhhh in advance",
+        "label": 19
+    },
+    {
+        "sentence": "is there a park in that neighborhood",
+        "label": 0
+    },
+    {
+        "sentence": "oh great ummm could you tell me the phone number and address for the uhhh s museum of modern art",
+        "label": 0
+    },
+    {
+        "sentence": "oh perfect ummm could you get the phone number for me",
+        "label": 0
+    },
+    {
+        "sentence": "ok got it uhhh one more question actually ummm i'm looking to grab dinner in the presidio heights area ummm that serve kebabs and hopefully that's in a moderate price range could see if there's anything like that",
+        "label": 0
+    },
+    {
+        "sentence": "ok ummm that's fine uhhh can i go ahead and book the table for six on saturday at one p. m.",
+        "label": 0
+    },
+    {
+        "sentence": "ummm i've already been to alcatraz what about another um landmark",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh yeah can you actually tell me if this place is wheelchair accessible",
+        "label": 27
+    },
+    {
+        "sentence": "That works! Can you give me the phone number?",
+        "label": 0
+    },
+    {
+        "sentence": "that's fine i can call them up ummm and could i try booking a room for monday uhhh for seven nights",
+        "label": 0
+    },
+    {
+        "sentence": "yeah can you get the cuisine and the price range of of the restaurant",
+        "label": 0
+    },
+    {
+        "sentence": "awesome ummm in that same area can you look for something that's kind of like i guess a little nicer expensive price range kind of americanish food",
+        "label": 0
+    },
+    {
+        "sentence": "yeah uhhh can you give me the zip code the zip",
+        "label": 0
+    },
+    {
+        "sentence": "ok ummm can you give me the address uhhh the zip code and the phone number please",
+        "label": 0
+    },
+    {
+        "sentence": "that sounds great. and uhhh also can you if you can help me find place to dine in same area that's expensive and and serves hot pot",
+        "label": 0
+    },
+    {
+        "sentence": "awesome thanks so much uhhh and and also could you recommend a place to go that would be in the same area",
+        "label": 0
+    },
+    {
+        "sentence": "yeah i'd like to try it can you get the phone number please",
+        "label": 0
+    },
+    {
+        "sentence": "is there one on thursday or tuesday",
+        "label": 0
+    },
+    {
+        "sentence": "perfect uhhh what's the zip code and address of that hotel",
+        "label": 0
+    },
+    {
+        "sentence": "yeah sounds great ummm can i get the zip code and phone number for that please",
+        "label": 0
+    },
+    {
+        "sentence": "i guess anywhere in the city but it's gotta be expensive and five stars",
+        "label": 0
+    },
+    {
+        "sentence": "mmm ok what about a park is there a park nearby",
+        "label": 0
+    },
+    {
+        "sentence": "all right can i go ahead and book two rooms for my family from saturday for four evenings",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh and the phone number",
+        "label": 0
+    },
+    {
+        "sentence": "what cuisine is that",
+        "label": 0
+    },
+    {
+        "sentence": "awesome uhhh are they do you know if they are pet friendly i'd like to bring my dog along",
+        "label": 7
+    },
+    {
+        "sentence": "ok no problem um while i'm there i'm also looking for a place to eat dinner in the same area but i'm also I'm open to an expensive price range but i'd like for there to be bar food do you have any suggestions",
+        "label": 0
+    },
+    {
+        "sentence": "oh that sounds good uhhh can i get their phone number i wanna ask if they have an exhibit that i'm interested in also i will need their address and zip code for my g. p. s.",
+        "label": 0
+    },
+    {
+        "sentence": "ok that's fine ummm i'm also looking for a beer bar in the same area that's you know moderately priced ummm can you give me some uhhh recommendations for that",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh yeah do you know whether they offer baggage storage for their guests",
+        "label": 28
+    },
+    {
+        "sentence": "excellent thank you very much that's good to know also we're going to need to eat dinner can you recommend a restaurant in union square in the expensive price range just for american traditional food",
+        "label": 0
+    },
+    {
+        "sentence": "perfect uhhh where is that",
+        "label": 0
+    },
+    {
+        "sentence": "perfect that sounds good ummm what's the check-in time",
+        "label": 8
+    },
+    {
+        "sentence": "ok and do they serve alcohol at this restaurant",
+        "label": 45
+    },
+    {
+        "sentence": "perfect by the way do they have vegan options on the menu",
+        "label": 44
+    },
+    {
+        "sentence": "we're talking in the middle moderate range",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh great can you give me the address and zip code please",
+        "label": 0
+    },
+    {
+        "sentence": "excellent and do you know if they offer a military discount",
+        "label": 73
+    },
+    {
+        "sentence": "okay i think that would work do they do you know if they have a parking garage",
+        "label": 11
+    },
+    {
+        "sentence": "hmm ok ummm let's try uhhh the sam wo ummm can you give me the zip code and phone number for sam wo",
+        "label": 0
+    },
+    {
+        "sentence": "ok and then is there a museum close by",
+        "label": 0
+    },
+    {
+        "sentence": "ok i can probably google it from there uhhh and does it tell you by chance if it's a good place for kids",
+        "label": 1
+    },
+    {
+        "sentence": "ok uhhh do they speak french",
+        "label": 9
+    },
+    {
+        "sentence": "ok how many stars are each of those hotels",
+        "label": 0
+    },
+    {
+        "sentence": "ok what is the price range on the harbor court hotel",
+        "label": 0
+    },
+    {
+        "sentence": "ummm how's the area uhhh what's the zip code of that",
+        "label": 0
+    },
+    {
+        "sentence": "ok great uhhh one last thing is uhhh is this restaurant wheelchair accessible",
+        "label": 27
+    },
+    {
+        "sentence": "ok great thanks for the information uhhh i'm also looking for place to stay do you know if there's bed and breakfast in the same area in the moderate price range",
+        "label": 0
+    },
+    {
+        "sentence": "ok ummm and could you check if they offer daily house keeping",
+        "label": 26
+    },
+    {
+        "sentence": "do you know if they offer delivery",
+        "label": 53
+    },
+    {
+        "sentence": "perfect thanks ummm and do you know if that's a good place to bring kids do they have like a play set",
+        "label": 1
+    },
+    {
+        "sentence": "hamburgers sound great super duper ones especially uhhh is there a place to park my bicycle",
+        "label": 63
+    },
+    {
+        "sentence": "ok uhhh is it a smoking non smoking type of establishment",
+        "label": 22
+    },
+    {
+        "sentence": "uhhh do you know if they require a reservation",
+        "label": 47
+    },
+    {
+        "sentence": "how about coit tower is that location dog friendly",
+        "label": 7
+    },
+    {
+        "sentence": "ok is there a star rating associated with that",
+        "label": 0
+    },
+    {
+        "sentence": "got it uhhh do you if they serve alcohol",
+        "label": 45
+    },
+    {
+        "sentence": "ok ummm do you know if they accept apple pay",
+        "label": 2
+    },
+    {
+        "sentence": "Can you give me their address?",
+        "label": 0
+    },
+    {
+        "sentence": "sure can you check whether they offer outdoor seating",
+        "label": 43
+    },
+    {
+        "sentence": "thank you and uhhh i'm also looking for art museums in the area",
+        "label": 0
+    },
+    {
+        "sentence": "perfect do you also have their phone number and zip code",
+        "label": 0
+    },
+    {
+        "sentence": "got it and also ummm can you tell where can i park around there",
+        "label": 11
+    },
+    {
+        "sentence": "ok that's fine ummm can i get the address",
+        "label": 0
+    },
+    {
+        "sentence": "ok do you know if i can bring my dog",
+        "label": 7
+    },
+    {
+        "sentence": "awesome what's the address",
+        "label": 0
+    },
+    {
+        "sentence": "Do they have parking?",
+        "label": 63
+    },
+    {
+        "sentence": "oh ok that would work do know whether they have a restaurant at the hotel",
+        "label": 6
+    },
+    {
+        "sentence": "i'm doing well i'm looking for an expensive hot pot place in inner richmond can you help me with that",
+        "label": 0
+    },
+    {
+        "sentence": "ok nob hill motor inn all right ummm does does that ummm hotel have heat in their rooms",
+        "label": 35
+    },
+    {
+        "sentence": "what about the address and the zip",
+        "label": 0
+    },
+    {
+        "sentence": "perfect do you have the phone number there",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh does corridor allow dogs",
+        "label": 7
+    },
+    {
+        "sentence": "do they serve breakfast",
+        "label": 4
+    },
+    {
+        "sentence": "oh ok ummm what's the what what area is that in",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh what's the what what's the address on that",
+        "label": 0
+    },
+    {
+        "sentence": "is there a gym at the hotel",
+        "label": 21
+    },
+    {
+        "sentence": "and also looking for uhhh to be to make it easy now i'm just looking for only the american new food kind of cuisine",
+        "label": 0
+    },
+    {
+        "sentence": "cool and last question ummm do you know if they allow dogs at the park",
+        "label": 7
+    },
+    {
+        "sentence": "wow ok ummm what's the zip code",
+        "label": 0
+    },
+    {
+        "sentence": "can you uhhh i know this might be silly can you check to see if they allow dogs",
+        "label": 7
+    },
+    {
+        "sentence": "ummm what's the star rating and what type of accommodation is it",
+        "label": 0
+    },
+    {
+        "sentence": "ok excellent does super duper take reservations in advance",
+        "label": 19
+    },
+    {
+        "sentence": "cupid's span uhhh what's the zip code there of that one",
+        "label": 0
+    },
+    {
+        "sentence": "heh ok do you what the charges for wi-fi in this hotel",
+        "label": 18
+    },
+    {
+        "sentence": "ok ummm why don't i go ahead and book two rooms ummm for sunday just for one night",
+        "label": 0
+    },
+    {
+        "sentence": "what is the ambience of the restaurant",
+        "label": 58
+    },
+    {
+        "sentence": "ummm is that place wheelchair accessible",
+        "label": 27
+    },
+    {
+        "sentence": "oh thank you so much uhhh and i was also looking for a place to dine around the same area uhhh if uhhh if if that would provide seafood that would be amazing and maybe in moderate price range",
+        "label": 0
+    },
+    {
+        "sentence": "great and do they accept credit cards",
+        "label": 2
+    },
+    {
+        "sentence": "ok cool ummm do you know by any chance if they have any restaurants on site at the fairmont",
+        "label": 6
+    },
+    {
+        "sentence": "the second one sounds good can you give me the address zip code and phone number please",
+        "label": 0
+    },
+    {
+        "sentence": "can you tell me if they offer delivery",
+        "label": 53
+    },
+    {
+        "sentence": "great uhhh what is the food type they serve",
+        "label": 0
+    },
+    {
+        "sentence": "ok excellent ummm oh and the kids always get hungry is there a good place to dine in sea cliff area that's you know cheap",
+        "label": 0
+    },
+    {
+        "sentence": "ok cool ummm i'm interested could you please give me the phone number for that place",
+        "label": 0
+    },
+    {
+        "sentence": "ok yeah how about a museum",
+        "label": 0
+    },
+    {
+        "sentence": "can i get a phone number and zip code for that one",
+        "label": 0
+    },
+    {
+        "sentence": "oh great there is one ummm uhhh do they accept bringing dogs",
+        "label": 7
+    },
+    {
+        "sentence": "sounds perfect uhhh would you be able to check if they serve alcohol as well",
+        "label": 45
+    },
+    {
+        "sentence": "ok let's stay in that same area and let's uhhh go for the moderate price range",
+        "label": 0
+    },
+    {
+        "sentence": "ok do you have an address for pier thirty nine including the zip code",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh do you know if they speak dutch",
+        "label": 9
+    },
+    {
+        "sentence": "okay sounds good ummm and then one last thing do you know the zip code of that was",
+        "label": 0
+    },
+    {
+        "sentence": "can i also get the zip code for this place",
+        "label": 0
+    },
+    {
+        "sentence": "hmmm that sounds interesting uhhh what's the address for that uhhh bistro",
+        "label": 0
+    },
+    {
+        "sentence": "oh great can i get the phone number please",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh great can you get the phone number for me",
+        "label": 0
+    },
+    {
+        "sentence": "yes could you please let me know whether they allow you to bring your dog to the location",
+        "label": 7
+    },
+    {
+        "sentence": "all right ummm oh i don't wanna take the stairs do they have an elevator",
+        "label": 5
+    },
+    {
+        "sentence": "what's the address",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh sounds interesting do you know if they have uh vegetarian options on their menu",
+        "label": 50
+    },
+    {
+        "sentence": "perfect can you uhhh give me the address and phone number of the of that place",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh well in that case i think expensive price range should also be good",
+        "label": 0
+    },
+    {
+        "sentence": "what's the address and zip code of that place",
+        "label": 0
+    },
+    {
+        "sentence": "all right thank you",
+        "label": 0
+    },
+    {
+        "sentence": "and do you know if that place is good for kids i have uhhh a five and a seven year old",
+        "label": 1
+    },
+    {
+        "sentence": "hmmm can you check for four stars",
+        "label": 0
+    },
+    {
+        "sentence": "ok can you also see if there is a restaurant in the same area ummm that serves chinese food",
+        "label": 0
+    },
+    {
+        "sentence": "and uh is there a place somewhere to park my car at the zoo",
+        "label": 11
+    },
+    {
+        "sentence": "thank you and i'd like to go some place there in same area that's a museum",
+        "label": 0
+    },
+    {
+        "sentence": "ok all right so after my day of spending at the museum i think i wanna get something to eat uhhh in the outer sunset neighborhood in the moderate price range and i think i'm looking for some british food",
+        "label": 0
+    },
+    {
+        "sentence": "yeah can you find landmarks in presidio",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh do they accept uhhh master card",
+        "label": 2
+    },
+    {
+        "sentence": "ok ummm what's the name of the landmark",
+        "label": 0
+    },
+    {
+        "sentence": "yes how did you know? lol. Can I have their phone number please",
+        "label": 0
+    },
+    {
+        "sentence": "great can you also check if they accept reservations",
+        "label": 19
+    },
+    {
+        "sentence": "uhhh what about a moderate price range instead",
+        "label": 0
+    },
+    {
+        "sentence": "ooo ummm maybe the glass elevator ummm what what type what type of attraction is that what is that",
+        "label": 0
+    },
+    {
+        "sentence": "ok and is the grant hotel pretty close to ummm the museum that i'm gonna go to after dark",
+        "label": 0
+    },
+    {
+        "sentence": "ok and can you give me uhhh some uhhh restaurants in the civic center area that are in the expensive price range and have american new food",
+        "label": 0
+    },
+    {
+        "sentence": "ooo do they offer takeout",
+        "label": 49
+    },
+    {
+        "sentence": "and what is the zip code",
+        "label": 0
+    },
+    {
+        "sentence": "ok is there a ho restaurant on site at the orchard",
+        "label": 6
+    },
+    {
+        "sentence": "would thursday work",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh do you know can you get me their address",
+        "label": 0
+    },
+    {
+        "sentence": "ok great and do they have parking",
+        "label": 11
+    },
+    {
+        "sentence": "ok what's the zip code and the phone number for the walt disney one",
+        "label": 0
+    },
+    {
+        "sentence": "perfect and one final consideration i will be bringing my dog with me is that allowed",
+        "label": 7
+    },
+    {
+        "sentence": "oh great could i get the zip code please",
+        "label": 0
+    },
+    {
+        "sentence": "all right that place sounds great do they have t. v.",
+        "label": 57
+    },
+    {
+        "sentence": "awesome uhhh do you know what the address zip code and phone number are",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh would you be able to check for in the moderate uh price range",
+        "label": 0
+    },
+    {
+        "sentence": "great ummm do you know if they take reservations in advance",
+        "label": 19
+    },
+    {
+        "sentence": "great can i just uhhh can i book two rooms for monday uhhh for three nights",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh can you check whether it's a good place for groups",
+        "label": 61
+    },
+    {
+        "sentence": "ok do you know if they offer daily housekeeping",
+        "label": 26
+    },
+    {
+        "sentence": "ok uhhh can you book a table for four people on thursday oh at six",
+        "label": 0
+    },
+    {
+        "sentence": "okay great ummm i'm also uhhh hoping to find a place umm that we can eat in chinatown for pretty cheap can youuhhh suggest some places for some good food there",
+        "label": 0
+    },
+    {
+        "sentence": "yeah can you look for one that uhhh serves noodles instead",
+        "label": 0
+    },
+    {
+        "sentence": "ok i'm also looking for a place to stay uhhh in the mission district uhhh it's expensive ummm includes bed bred bed and breakfast and has a star rating of two",
+        "label": 0
+    },
+    {
+        "sentence": "thanks once i get down there i'm probably also gonna need a place to eat dinner ummm i'm looking like the laurel heights area and ideally some place that serves pakistani food do you have any options",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh that'd be great. uhhh one additional thing so still in marina and cow hollow uhhh are there any places that you suggest that you recommend that serve kind of traditional american type food",
+        "label": 0
+    },
+    {
+        "sentence": "perfect uhhh by the way do you know if they if that location that park tavern has a happy hour",
+        "label": 55
+    },
+    {
+        "sentence": "ok let's stay in that area ummm can you look for armenian food",
+        "label": 0
+    },
+    {
+        "sentence": "ummm is there any hotel instead",
+        "label": 0
+    },
+    {
+        "sentence": "do they accept discover",
+        "label": 2
+    },
+    {
+        "sentence": "great do you know if they accept google play i'm sorry google pay",
+        "label": 66
+    },
+    {
+        "sentence": "oh ok ummm can you change ummm maybe look anywhere in the city",
+        "label": 0
+    },
+    {
+        "sentence": "interesting let's see the museum of three d. illusions can you uhhh help me get the zip code",
+        "label": 0
+    },
+    {
+        "sentence": "oh ok ummm yeah can i get the table for eight on thursday at seven",
+        "label": 0
+    },
+    {
+        "sentence": "uhhh yeah do you know if they have free wi-fi there",
+        "label": 18
+    },
+    {
+        "sentence": "oh awesome last question that i got about that is do they offer daily housekeeping",
+        "label": 26
+    },
+    {
+        "sentence": "yes absolutely can you get the phone number and zip code please",
+        "label": 0
+    },
+    {
+        "sentence": "ok and do they offer take out",
+        "label": 49
+    },
+    {
+        "sentence": "got it thanks do you know if they have parking",
+        "label": 11
+    },
+    {
+        "sentence": "ummm we could we could go on a little early uhhh do they have availability monday",
+        "label": 0
+    },
+    {
+        "sentence": "do you have the phone number for that place",
+        "label": 0
+    },
+    {
+        "sentence": "ok can i get the address of the academy of sciences",
+        "label": 0
+    },
+    {
+        "sentence": "is it safe to assume it's air conditioned",
+        "label": 38
+    },
+    {
+        "sentence": "seven one six ok got it ummm and can you also see if they require a reservation",
+        "label": 47
+    },
+    {
+        "sentence": "oh let's with the uh with the fairmont uhhh what type of the accomodation is that",
+        "label": 0
+    },
+    {
+        "sentence": "carriage inn hmmm that's sounds really really good ummm can you check and see if it's open twenty four hours at the front desk",
+        "label": 23
+    },
+    {
+        "sentence": "what about the zip code of each",
+        "label": 0
+    },
+    {
+        "sentence": "ok uhhh can you share the phone number and zip codes for that",
+        "label": 0
+    },
+    {
+        "sentence": "awesome thank you so much and one last thing would you be able to check if they accept apple pay",
+        "label": 2
+    },
+    {
+        "sentence": "yeah ok ummm how about are there any three star uhhh hotels",
+        "label": 0
+    },
+    {
+        "sentence": "great thanks ummm can you also check if it's a good place for kids",
+        "label": 1
+    },
+    {
+        "sentence": "ummm yeah any hotels in the area",
+        "label": 0
+    },
+    {
+        "sentence": "and what about the address and zip code",
+        "label": 0
+    },
+    {
+        "sentence": "do they have a kitchen available for guests",
+        "label": 10
+    },
+    {
+        "sentence": "and while you're there can you check if they free wi-fi available in that location",
+        "label": 18
+    },
+    {
+        "sentence": "awesome and if you could go ahead and book a table for two people at seven p. m. it'd be much appreciated",
+        "label": 0
+    },
+    {
+        "sentence": "ok ummm let's try the new fortune ummm do you know if they have a t. v.",
+        "label": 57
+    },
+    {
+        "sentence": "fantastic thank you. and once you're done with that i need another request",
+        "label": 0
+    },
+    {
+        "sentence": "awesome cool and finally do you know if there is a place i can park my bike near there",
+        "label": 63
+    },
+    {
+        "sentence": "maybe something that serves vietnamese",
+        "label": 0
+    },
+    {
+        "sentence": "hmmm ok well maybe i'll just leave him at home then ummm so while i'm down there i'm gonna need a place to stay and i was hoping to stay near fisherman's wharf ummm probably in something that's more the kind of upper tier expensive price range do you have any recommendations there",
+        "label": 0
+    }
+]
