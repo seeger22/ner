@@ -1,0 +1,29 @@
+#!/usr/bin/bash
+#
+#SBATCH --job-name=myTrainTask2GPU
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=8GB
+#SBATCH --gres=gpu:1
+#SBATCH --output=log_train_glue_%A_%a.out
+#SBATCH --error=log_train_glue_%A_%a.err
+#SBATCH --time=5-00:00:00
+
+export PATH=/scratch/jx1038/anaconda3/bin:$PATH
+
+module purge
+module load cuda/11.2
+
+source activate dstc10_task1
+
+export TASK_NAME=dstc10_intent
+
+python run_glue_no_trainer.py \
+  --model_name_or_path /gpfsnyu/scratch/sy2448/dstc9/train/runs/checkpoint_newtoken_T_data_aug-47  \
+  --tokenizer_name_or_path /gpfsnyu/scratch/sy2448/dstc9/train/runs/checkpoint_newtoken_T_data_aug-47 \
+  --task_name $TASK_NAME \
+  --max_length 128 \
+  --per_device_train_batch_size 8 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 10 \
+  --output_dir fdstc10_intent_MT2 \
